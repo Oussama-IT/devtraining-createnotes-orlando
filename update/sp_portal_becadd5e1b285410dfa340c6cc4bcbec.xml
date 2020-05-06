@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="h_page">c8898c591ba0d010dfa340c6cc4bcb4d</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>$oussama.hamdi</sys_created_by>
+        <sys_created_on>2020-05-05 10:04:27</sys_created_on>
+        <sys_id>becadd5e1b285410dfa340c6cc4bcbec</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>test2</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_portal_becadd5e1b285410dfa340c6cc4bcbec</sys_update_name>
+        <sys_updated_by>$oussama.hamdi</sys_updated_by>
+        <sys_updated_on>2020-05-05 10:08:13</sys_updated_on>
+        <theme display_value="Benchmarks - Theme">166e16f65b4132003d1c484c11f91a70</theme>
+        <title>test2</title>
+        <ts_index_group/>
+        <url_suffix>t2</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=becadd5e1b285410dfa340c6cc4bcbec"/>
+</record_update>
